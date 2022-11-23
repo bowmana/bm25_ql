@@ -1,0 +1,18 @@
+query0a	play	ql	the	king	queen	royalty
+query0b	play	bm25	the	king	queen	royalty
+query1a	play	ql	you
+query1b	play	bm25	you
+query2a	play	ql	you	thou
+query2b	play	bm25	you	thou
+query3a	play	ql	venice	rome	denmark
+query3b	play	bm25	venice	rome	denmark
+query4a	play	ql	romeo	thumb
+query4b	play	bm25	romeo	thumb
+query5a	play	ql	pursue	bear
+query5b	play	bm25	pursue	bear
+query6a	play	ql	hope	dream	sleep
+query6b	play	bm25	hope	dream	sleep
+query7a	play	ql	to	be	or	not	to	be
+query7b	play	bm25	to	be	or	not	to	be
+query7c	scene	ql	to	be	or	not	to	be
+query7d	scene	bm25	to	be	or	not	to	be

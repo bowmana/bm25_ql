@@ -1,0 +1,7 @@
+query0b	scene	aathello:1.0	-1.3344878137973644 
+query0b	scene	aathello:0.1	-1.337782709694217 
+query0b	scene	othello:0.0	-1.8820549214188749 
+query0b	scene	othello:0.1	-1.9005371226996393 
+query0b	scene	othello:0.2	-1.9038211979008293 
+query0b	scene	othello:0.0	-3.2231217063142816 
+query0b	scene	othello:0.2	-3.257502025312333 

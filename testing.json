@@ -1,0 +1,38 @@
+{"corpus" : [ 
+    {
+    "playId" : "othello",
+    "sceneId" : "othello:0.0",
+    "sceneNum" : 0,
+    "text" : "text1 text1 the the text1IsHere"  } ,
+     {
+    "playId" : "othello",
+    "sceneId" : "othello:0.1",
+    "sceneNum" : 1,
+    "text" : "text2 the text2 text2IsHere"  } , 
+    {
+    "playId" : "othello",
+    "sceneId" : "othello:0.2",
+    "sceneNum" : 2,
+    "text" : "text3 text3 the text3IsHere text1"  } , 
+    {
+    "playId" : "othello",
+    "sceneId" : "othello:1.0",
+    "sceneNum" : 3,
+    "text" : "text4 text4 text4IsHere"  } ,
+    
+     {
+    "playId" : "othello",
+    "sceneId" : "othello:1.1",
+    "sceneNum" : 4,
+    "text" : "text5 text5 text5IsHere"  },
+    {
+        "playId" : "aathello",
+        "sceneId" : "aathello:1.0",
+        "sceneNum" : 0,
+        "text" : "text1 text1 text1IsHere"  },
+        {
+            "playId" : "aathello",
+            "sceneId" : "aathello:0.1",
+            "sceneNum" : 0,
+            "text" : "text1 text1 text4 text1IsHere"  } 
+]}
